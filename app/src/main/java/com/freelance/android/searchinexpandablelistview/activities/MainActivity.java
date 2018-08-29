@@ -1,4 +1,4 @@
-package com.freelance.android.searchinexpandablelistview;
+package com.freelance.android.searchinexpandablelistview.activities;
 
 import android.app.SearchManager;
 import android.content.Context;
@@ -14,6 +14,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.ExpandableListView;
 
+import com.freelance.android.searchinexpandablelistview.R;
 import com.freelance.android.searchinexpandablelistview.adapter.ExpandableListAdapter;
 import com.freelance.android.searchinexpandablelistview.models.ChildRow;
 import com.freelance.android.searchinexpandablelistview.models.ParentRow;
